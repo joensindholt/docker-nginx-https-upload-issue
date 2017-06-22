@@ -2,7 +2,7 @@
 
 This is a setup for showing a potential bug when uploading large files to a dockerized nginx proxy with a .net core backend.
 
-The issue is only occuring when using Docker For Windows.
+The issue is only occuring when using Docker For Windows...it seems
 
 ## Get started
 
